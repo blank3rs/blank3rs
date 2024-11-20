@@ -1,4 +1,4 @@
-## Hey I'm Akshay
+## Hey, I'm Akshay
 I'm a second-year Computer Science student at the University of Western Ontario, passionate about **Generative AI**, **web development**, and building **cool simulations**.
 
 ## 💻 Technologies I Love

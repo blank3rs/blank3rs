@@ -9,10 +9,8 @@ I'm a second-year Computer Science student at the University of Western Ontario,
 - **AI/ML**: torch, Selenium, JEPA, Swarm AI
 
 ## Github Stats
-![blank3rs's Stats](https://github-readme-stats.vercel.app/api?username=blank3rs&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
-![blank3rs's Streak](https://github-readme-streak-stats.herokuapp.com/?user=blank3rs&theme=tokyonight&hide_border=true)
-
-![blank3rs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blank3rs&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![blank3rs's Stats](https://github-readme-stats.vercel.app/api?username=blank3rs&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![blank3rs's Streak](https://github-readme-streak-stats.herokuapp.com/?user=blank3rs&theme=vue-dark&hide_border=true)
+![blank3rs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blank3rs&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 

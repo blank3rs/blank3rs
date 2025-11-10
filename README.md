@@ -1,16 +1,17 @@
-# Akshay
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:1a1a1a&height=160&section=header&text=Akshay&fontSize=50&fontAlign=50&fontColor=ffffff)
 
-I build machine learning systems, autonomous agents, and human–computer interfaces.  
-My work explores self-supervised representation learning, world models, and practical agent frameworks.
-
-**Website:** [akshay.wiki](https://akshay.wiki)
+<p align="center">
+  I build machine learning systems, autonomous agents, and human–computer interfaces.<br>
+  My work explores self-supervised representation learning, world models, and practical agent frameworks.<br><br>
+  <a href="https://akshay.wiki">akshay.wiki</a>
+</p>
 
 ---
 
 ### Focus Areas
 - Representation learning and JEPA-style self-supervised methods  
 - Agentic systems and world modeling with OpenAI / Azure  
-- Applied ML tools, automation, and small-scale HCI experiments
+- Applied ML tools, automation, and experimental HCI interfaces
 
 ---
 
@@ -20,7 +21,7 @@ My work explores self-supervised representation learning, world models, and prac
 - **Web-Agent** – browser automation through Playwright and MCP  
 - **ML-from-scratch** – minimal deep learning engine for research
 
-See more at [github.com/blank3rs](https://github.com/blank3rs).
+See more at [github.com/blank3rs](https://github.com/blank3rs)
 
 ---
 

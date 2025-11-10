@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:1a1a1a&height=160&section=header&text=Akshay&fontSize=50&fontAlign=50&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3b0a45,100:5a189a&height=160&section=header&text=Akshay&fontSize=50&fontAlign=50&fontColor=ffffff)
 
 <p align="center">
   I build machine learning systems, autonomous agents, and human–computer interfaces.<br>

@@ -21,8 +21,6 @@
 - **Web-Agent** – browser automation through Playwright and MCP  
 - **ML-from-scratch** – minimal deep learning engine for research
 
-See more at [github.com/blank3rs](https://github.com/blank3rs)
-
 ---
 
 ### Stack

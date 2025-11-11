@@ -24,7 +24,7 @@
 ---
 
 ### Stack
-![My Skills](https://skillicons.dev/icons?i=python,pytorch,azure,js,ts,react,neovim,linux)
+![My Skills](https://skillicons.dev/icons?i=python,pytorch,azure,js,ts,react)
 
 ---
 

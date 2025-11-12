@@ -28,16 +28,8 @@
 
 ---
 
-### GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=blank3rs&show_icons=true&hide_title=true&hide_rank=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blank3rs&layout=compact&theme=transparent)
-![Streak](https://streak-stats.demolab.com/?user=blank3rs&theme=transparent)
-
----
-
 ### Contact
 - Website: [akshay.wiki](https://akshay.wiki)  
-- Email: available on request  
 - Open to collaborations in representation learning, world models, and agentic systems.
 
 ---

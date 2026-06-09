@@ -1,1 +1,1 @@
-*So, gradient descent, huh?*
+*So ..... gradient descent.*
